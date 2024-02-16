@@ -35,5 +35,5 @@ SOAL 5
 Tidak ada solusi untuk soal nomor 4 karena tidak ada eror yang terjadi 
 
 SOAL 6
-Duplikasi : duplikasi data terjadi ketika ada lebih dari satu baris dalam tabel yang memiliki nilai yang sama pada beberapa kolom, pada soal diatas contohnya, terdapat nilai yang sama pada kolom kode penjualan sehingga data tidak dapat ditambahkan.
-Inkonsisten data : Inkonsistensi data adalah munculnya data yang tidak konsisten pada kolom yang sama dalam satu atau beberapa file data yang dihubungkan.
+Duplikasi : Duplikasi data adalah keberadaan data yang sama di beberapa tempat ketika ada lebih dari satu baris dalam tabel yang bernilai sama pada beberapa kolom.
+Inkonsisten data : keadaan di mana terdapat perbedaan antara data yang sama yang disimpan di beberapa tempat. Hal ini dapat terjadi karena berbagai alasan, seperti perubahan data yaitu ketika data diubah, tetapi tidak semua salinan data diubah secara konsisten, sehingga terjadi inkonsistensi data.
