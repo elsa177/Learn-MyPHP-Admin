@@ -29,7 +29,7 @@ SOAL 4
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/bZty5t9.jpeg">
 </p>
-Data dapat ditambahkan tetapi nominal harga berubah menjadi 5
+Data dapat ditambahkan
 
 SOAL 5
 Tidak ada solusi untuk soal nomor 4 karena tidak ada eror yang terjadi 
