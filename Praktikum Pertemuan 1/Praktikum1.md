@@ -5,7 +5,7 @@ Buka XAMPP dan klik Start Apache dan MySQL
 
 Ketik pada browser Buka url localhost dan jalankan phpMyadmin
 <p align="center">
-  <img width="460" height="300" src="https://imgur.com/undefined.jpeg">
+  <img width="460" height="300" src="https://imgur.com/2pyQuQ4.jpeg">
 </p>
 
 Membuat Database baru dengan nama penjualan_produk kemudian klik create
