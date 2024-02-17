@@ -7,11 +7,11 @@ Tambahkan data detail_penjualan sebagaimana berikut <SOAL 7>
 <p align="center">
   <img width="460" height="300" src="https://i.imgur.com/FnLvJDA.jpeg">
 </p>
-Data tidak dapat ditambahkan karena primary key 2 dan 3 telah ditambahkan sebelumnya dan tidak dapat di duplikat
+Data tidak dapat ditambahkan karena primary key 2 dan 3 telah ditambahkan sebelumnya jadi data tidak dapat di duplikat
 
-Penghapusan garis hubung antara tabel penjualan dan detail_penjualan
+Tampilan struktur dari database dan hapus garis hubung antara tabel penjualan dan detail_penjualan
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/kGRVH1S.jpeg">
+  <img width="460" height="300" src="https://imgur.com/OZeNIPR.jpeg">
 </p>
 
 Data Tetap tidak bisa ditambahkan karena nilai nya sudah ada atau data tersebut pernah ditambahkan sebelumnya
