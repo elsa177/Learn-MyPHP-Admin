@@ -1,4 +1,3 @@
-
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/t5oFp3x.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/Lwq2tEA.png">
 </p>
