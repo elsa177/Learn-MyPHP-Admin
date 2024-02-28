@@ -1,6 +1,6 @@
 Buka XAMPP dan klik Start Apache dan MySQL  
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/t5oFp3x.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/gEomvmv.jpeg">
 </p>
 
 Ketik pada browser Buka url localhost dan jalankan phpMyadmin
@@ -10,15 +10,14 @@ Ketik pada browser Buka url localhost dan jalankan phpMyadmin
 
 Membuat Database baru dengan nama penjualan_produk kemudian klik create
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/oBDsJoE.jpeg">
-</p>
+  <img width="460" height="300" src="https://i.imgur.com/aC2XXUc.jpeg
 
 Import file SQL setelah itu klik go 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/v8JDTVN.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/Hv73bi8.jpeg">
 </p>
 
 Nama database penjualan_produk muncul dalam daftar database
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/2YNK9vt.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/nHDHlrW.jpeg">
 </p>
