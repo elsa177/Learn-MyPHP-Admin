@@ -5,7 +5,7 @@ Tambahkan data detail_penjualan sebagaimana berikut <SOAL 7>
 - harga = 5.000
 - jumlah = 5
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/FnLvJDA.jpeg">
+  <img width="460" height="300" src="https://i.imgur.com/VmcOrdc.jpeg">
 </p>
 Data tidak dapat ditambahkan karena primary key 2 dan 3 telah ditambahkan sebelumnya jadi data tidak dapat di duplikat
 
