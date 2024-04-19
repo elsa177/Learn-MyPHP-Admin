@@ -5,7 +5,7 @@ soal 1
 
 soal 2
 <p align="center">
-  <img width="460" height="300" src="https://https://https://imgur.com/Qcx664J.png">
+  <img width="460" height="300" src="https://https://imgur.com/Qcx664J.png">
 </p>
 
 soal 3
