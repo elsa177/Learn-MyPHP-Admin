@@ -1,5 +1,6 @@
-Soal 1
-Himpunlah screenshot sintaksis SQL berikut hasil SELECT yang Anda dapat di komputer Anda pada bagian Praktikum
+**Praktikum Pertemuan 12**
+
+# 1. Himpunlah screenshot sintaksis SQL berikut hasil SELECT yang Anda dapat di komputer Anda pada bagian Praktikum
 ![Screenshot 2024-05-24 094658](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/af770b22-cd80-4058-a258-ceadc28c7921)
 ![Screenshot 2024-05-24 094741](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/cdd6616c-4e50-4f16-89b9-0e46308e6c26)
 ![Screenshot 2024-05-24 095013](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/2630aae0-d478-43c9-a835-61a4ab29d1fa)
@@ -27,19 +28,15 @@ Himpunlah screenshot sintaksis SQL berikut hasil SELECT yang Anda dapat di kompu
 ![Screenshot 2024-05-24 101238](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/177d5612-d366-4187-9f0e-be723df7a831)
 ![Screenshot 2024-05-24 101311](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/0b92c57e-a632-48c8-bff3-17ee1d555bc4)
 
-Soal 2
-Bagaimana sintaksis untuk menampilkan semua kolom jadwal pada hari kamis yang dimulai pada pukul 08:40 ? Tunjukkan outputnya!
+# 2. Bagaimana sintaksis untuk menampilkan semua kolom jadwal pada hari kamis yang dimulai pada pukul 08:40 ? Tunjukkan outputnya!
 ![Screenshot 2024-05-24 101601](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/70ec14bb-1129-48b6-adc0-15bbece170c6)
 
-Soal 3
-Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya! Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!
+# 3. Berapakah jumlah dosen yang mengajar pada hari selasa! Tunjukkan sintaksis dan outputnya! Kemudian tampilkan list semua kode dosen yang sesuai dengan kondisi tersebut! Tunjukkan sintaksis dan outputnya!
 ![Screenshot 2024-05-24 101718](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/a62819e7-3f2f-4138-9443-1aed1a0061ba)
 ![Screenshot 2024-05-24 101828](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/68b95bdf-7280-44b0-b4c2-30618ae36e71)
 
-Soal 4
-Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.
+# 4. Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.
 ![Screenshot 2024-05-24 102620](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/3f332090-682a-48bf-aab2-e512229ed06a)
 
-Soal 5
-Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.
+# 5. Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.
 ![Screenshot 2024-05-24 102744](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/175f3661-b18e-417b-b8f7-4550f072d2fd)
