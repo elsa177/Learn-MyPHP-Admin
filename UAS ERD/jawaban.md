@@ -1,19 +1,19 @@
 <h2>SOAL 1</h2>
 
-<h1>Seorang mahasiswa ingin membuat sebuah aplikasi todo app dimana dengan menggunakan aplikasi ini mahasiswa tersebut dapat melakukan management terhadap tugas tugas yang harus dilaukaannya dalam sebuah aplikasi web.
+Seorang mahasiswa ingin membuat sebuah aplikasi todo app dimana dengan menggunakan aplikasi ini mahasiswa tersebut dapat melakukan management terhadap tugas tugas yang harus dilaukaannya dalam sebuah aplikasi web.
 
 Aplikasi ini mengharuskan user melakukan login dengan menggunakan username dan password, username pada aplikasi ini harus unique dan tidakboleh sama dengan username dari user lain. password pada aplikasi ini harus di 
 enkripsi dan memiliki panjang minimal 8 karakter terdiri dari angka dan huruf serta minimal satu simbol.
 seorang user boleh membuat banyak todo item setiap todo item memiliki todo item id yang unik serta mempunyai task description yang berupa text panjang serta memiliki attribut attribut ini harus dipilih salah satu di antara 3 status yaitu “planned”,“ongoing”, dan “done”. 
 
 Sebelum membuat sebuah todo user harus membuat minimal satu atau lebih category, kategory ini mempunyai category id yang unik dan info mengenai category name yang memiliki panjang minimal 5 karakter dan maksimal 20 karakter.
-Sebuah category dapat digunakan pada banyak todo item dan satu todo item wajib memiliki satu kategory, tidak ada todo item yang tidak memiliki kategori.</h1>
+Sebuah category dapat digunakan pada banyak todo item dan satu todo item wajib memiliki satu kategory, tidak ada todo item yang tidak memiliki kategori.
 
 ![concept-map (2)](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/b2845eb5-e36e-4aca-9a8f-4d30d12e8186)
 
 <h2>SOAL 2</h2>
 
-<h1>Seorang content creator membutuhkan bantuan anda untuk membuatkan platform publikasi kontent kontennya.
+Seorang content creator membutuhkan bantuan anda untuk membuatkan platform publikasi kontent kontennya.
 
 Platform ini berbentuk sebuah website dimana konten creator tersebut dapat mempublikasikan karya karyanya dalam bentuk sebuah berita secara online di internet.
 
@@ -26,13 +26,13 @@ Data yang disimpan pada kategori adalah nama kategori yang berupa sebuah text pa
 
 Selain menggunakan kategori sebuah berita juga dapat dikelompokkan berdasarkan sebuah tag/topik dimana sebuah berita boleh mempunyai banyak tag dan sebuah tag dapat dipasang pada lebih dari satu berita. Data yang disimpan pada tag adalah isi tag yang panjangnya maksimal 20 karakter dan id tag yang unik.
 
-Untuk mempermudah interaksi antara pembaca dan penulis di sistem berita ini setiap berita yang dibuat dapat diberi komentar sebuah berita dapat dikomentari lebih dari satu kali oleh pembaca data yang dicatat pada komentar adalah komentar id komentar id ini bersifat unik kemudian isi komentar berupa text panjang maksimal 255 karakter nama pemberi komentar dan email pemberi komentar email harus dalam format email yang benar serta dicatat juga tanggal komentarnya.</h1>
+Untuk mempermudah interaksi antara pembaca dan penulis di sistem berita ini setiap berita yang dibuat dapat diberi komentar sebuah berita dapat dikomentari lebih dari satu kali oleh pembaca data yang dicatat pada komentar adalah komentar id komentar id ini bersifat unik kemudian isi komentar berupa text panjang maksimal 255 karakter nama pemberi komentar dan email pemberi komentar email harus dalam format email yang benar serta dicatat juga tanggal komentarnya.
 
 ![concept-map (1)](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/ff4aaba7-9fcc-49d8-abed-0382481c332c)
 
 <h2>SOAL 3</h2>
 
-<h1>Sebuah perusahaan ingin membuat aplikasi ramalan cuaca, aplikasi ini mewajibkan usernya untuk login menggunakan username dan password, user juga wajib memiliki user id yang unik untuk setiap usernya selain itu username harus unik dan tidak boleh ada user yang memiliki username yang sama.
+Sebuah perusahaan ingin membuat aplikasi ramalan cuaca, aplikasi ini mewajibkan usernya untuk login menggunakan username dan password, user juga wajib memiliki user id yang unik untuk setiap usernya selain itu username harus unik dan tidak boleh ada user yang memiliki username yang sama.
 
 Untuk melihat prakiraan cuaca seorang user dapat menambahkan minimal satu atau lebih kota yang ingin dilihat prakiraan cuacanya. Di aplikasi ini suatu kota juga dapat ditambahkan oleh user lain yang ingin mengetahui prakiraan cuaca di kota tersebut.
 
@@ -42,6 +42,6 @@ Sebuah kota terkelompokkan dalam sebuah negara dimana sebuah negara memiliki beb
 
 sebuah kota dapat memiliki banyak prakiraan cuaca, dimana prakiraan cuaca ini disimpan dengan data prakiraan id yang unik, tanggal prakiraan cuaca, temperatur terendah dan temperatur tertinggi.
 
-Setiap prakiraan cuaca memiliki maksimal satu kondisi cuaca dimana kondisi cuaca ini bersifat dinamis dapat ditambahkan secara mandiri oleh admin aplikasi, kondisi cuaca memiliki kondisi id yang bersifat unik dan nama kondisi yang berupa sebuah text dengan panjang maksimal 30 karakter. Kondisi cuaca ini dapat dipakai oleh lebih dari satu prakiraan cuaca.</h1>
+Setiap prakiraan cuaca memiliki maksimal satu kondisi cuaca dimana kondisi cuaca ini bersifat dinamis dapat ditambahkan secara mandiri oleh admin aplikasi, kondisi cuaca memiliki kondisi id yang bersifat unik dan nama kondisi yang berupa sebuah text dengan panjang maksimal 30 karakter. Kondisi cuaca ini dapat dipakai oleh lebih dari satu prakiraan cuaca.
 
 ![concept-map](https://github.com/elsa177/Learn-MyPHP-Admin/assets/160198836/dd5ef3a8-60d4-4076-95d7-f65208740df5)
